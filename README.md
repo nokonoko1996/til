@@ -20,4 +20,11 @@
 - [ ] YAML入門  
 [※参考記事](https://qiita.com/yamadagenki/items/3b8b0ce8df0117b9af8e)
 ---
-- dotinstall（個人的にやりたい）
+### dotinstall（個人的にやりたい）
+- [ ] JavaScriptで宝探しゲームを作ろう
+- [ ] Emmetで爆速コーディングを修得しよう
+- [ ] React入門
+---
+## メモ
+- 資格は転職してからでもいい。  資格補助目的くらいでいい、まずはスキル
+- キツくなったら [これ]（https://qiita.com/rana_kualu/items/b93885c0b65328b3eb79）を読んで。  気楽に、でもやるならやる。
