@@ -5,7 +5,7 @@
 - [ ] CSS入門 基本スタイリング編
 - [ ] CSS入門 応用スタイリング編
 - [ ] CSS入門 セレクター編
-- [ ] はじめてのJavaScript
+- [x] はじめてのJavaScript
 - [ ] 【超重要】Chrome Developer Tools入門
 - [ ] Tailwind CSS入門
 ---
