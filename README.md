@@ -21,7 +21,9 @@
 [※参考記事](https://qiita.com/yamadagenki/items/3b8b0ce8df0117b9af8e)
 ---
 ### dotinstall（個人的にやりたい）
-- [ ] JavaScriptで宝探しゲームを作ろう
+- [ ] JavaScriptで基礎を習得しよう（メモのみ模写なし）
+- [ ] もっと詳しくJavaScriptを学んでいこう（〃）
+- [ ] よく見るUIを作ってみよう（〃）
 - [ ] Emmetで爆速コーディングを修得しよう
 - [ ] React入門
 - [ ] PHP入門（サーバー言語に触れるため）
